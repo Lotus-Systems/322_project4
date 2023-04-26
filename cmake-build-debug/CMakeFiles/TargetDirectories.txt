@@ -1,0 +1,3 @@
+/home/lotus-systems/class/comp-322/project4/cmake-build-debug/CMakeFiles/project4.dir
+/home/lotus-systems/class/comp-322/project4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lotus-systems/class/comp-322/project4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
